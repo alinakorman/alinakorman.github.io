@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Alina Korman]]></title>
+  <link href="http://alinakorman.github.io/atom.xml" rel="self"/>
+  <link href="http://alinakorman.github.io/"/>
+  <updated>2016-10-26T10:42:44+02:00</updated>
+  <id>http://alinakorman.github.io/</id>
+  <author>
+    <name><![CDATA[Alina Korman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
