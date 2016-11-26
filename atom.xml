@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Alina Korman]]></title>
-  <link href="http://alinakorman.com/alinakorman.io/atom.xml" rel="self"/>
-  <link href="http://alinakorman.com/alinakorman.io/"/>
-  <updated>2016-11-24T11:07:59+01:00</updated>
-  <id>http://alinakorman.com/alinakorman.io/</id>
+  <link href="http://alinakorman.com/atom.xml" rel="self"/>
+  <link href="http://alinakorman.com/"/>
+  <updated>2016-11-26T12:21:39+01:00</updated>
+  <id>http://alinakorman.com/</id>
   <author>
     <name><![CDATA[Alina Korman]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Postgit Config branch.master.remote Origin! :)]]></title>
-    <link href="http://alinakorman.com/alinakorman.io/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin/"/>
+    <link href="http://alinakorman.com/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin/"/>
     <updated>2016-10-26T11:56:59+02:00</updated>
-    <id>http://alinakorman.com/alinakorman.io/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin</id>
+    <id>http://alinakorman.com/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>

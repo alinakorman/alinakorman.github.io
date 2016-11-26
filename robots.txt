@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://alinakorman.com/alinakorman.io/sitemap.xml 
+Sitemap: http://alinakorman.com/sitemap.xml 
