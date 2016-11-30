@@ -4,7 +4,7 @@
   <title><![CDATA[Alina Korman]]></title>
   <link href="http://alinakorman.com/atom.xml" rel="self"/>
   <link href="http://alinakorman.com/"/>
-  <updated>2016-11-29T11:54:36+01:00</updated>
+  <updated>2016-11-30T15:18:48+01:00</updated>
   <id>http://alinakorman.com/</id>
   <author>
     <name><![CDATA[Alina Korman]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[In Progress...]]></title>
+    <link href="http://alinakorman.com/blog/2016/11/29/in-progress-dot-dot-dot/"/>
+    <updated>2016-11-29T12:13:41+01:00</updated>
+    <id>http://alinakorman.com/blog/2016/11/29/in-progress-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>This page is under construction. :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Postgit Config branch.master.remote Origin! :)]]></title>
