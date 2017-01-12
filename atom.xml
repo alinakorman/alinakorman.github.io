@@ -4,7 +4,7 @@
   <title><![CDATA[Alina Korman]]></title>
   <link href="http://alinakorman.com/atom.xml" rel="self"/>
   <link href="http://alinakorman.com/"/>
-  <updated>2017-01-12T08:11:49+01:00</updated>
+  <updated>2017-01-12T08:17:59+01:00</updated>
   <id>http://alinakorman.com/</id>
   <author>
     <name><![CDATA[Alina Korman]]></name>
@@ -23,9 +23,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[My First Postgit Config branch.master.remote Origin! :)]]></title>
+    <title type="html"><![CDATA[My First Website]]></title>
     <link href="http://alinakorman.com/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin/"/>
-    <updated>2016-10-26T11:56:59+02:00</updated>
+    <updated>2016-10-26T00:00:00+02:00</updated>
     <id>http://alinakorman.com/blog/2016/10/26/my-first-postgit-config-branch-dot-master-dot-remote-origin</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
